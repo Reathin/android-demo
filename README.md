@@ -3,8 +3,8 @@
 *android-demo，包含控件的使用、功能的使用、蓝牙、WiFi、加密解密等。*
 
 ### 2017
-|  模块   |  时间   |  博客   |  说明   |
-|  --- | --- | --- | --- |
+| 模块 | 时间 | 博客 | 说明 |
+| --- | --- | --- | --- |
 | android_webview              | 04.14 | http://www.jianshu.com/p/1071b1cdbbf5 | Android WebView的使用 |
 | android_preference_activity  | 04.27 | http://www.jianshu.com/p/4a65f4a912c6 | Android PreferenceActivity的使用 |
 | android_connectivity_manager | 04.29 | http://www.jianshu.com/p/c415691b282c | Android 网络连接管理 |
@@ -18,16 +18,16 @@
 ---
 
 ### 2018
-|  模块   |  时间   |  博客   |  说明   |
+| 模块 | 时间 | 博客 | 说明 |
 | --- | --- | --- | --- |
 | android_face_detect | 01.17 |     | 自动对焦检测人脸 Face++ 虹软 |
 
 ---
 
 ### 2019
-|  模块   |  时间   |  博客   |  说明   |
+| 模块 | 时间 | 博客 | 说明 |
 | --- | --- | --- | --- |
-| lib_promise | 04.09 |  | Android 异步任务  |
+| lib_promise | 04.09 |  | Android 异步任务 |
 ```java
 Promise<String> promise = Function.execute(new Callable<String>() {
     @Override
