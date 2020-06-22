@@ -1,0 +1,8 @@
+include ':android_face_detect'
+include ':android_preference_activity'
+include ':android_wifi'
+include ':android_webview'
+include ':android_encrypt'
+include ':android_bluetooth'
+include ':android_connectivity_manager'
+include ':android_customize_view'
