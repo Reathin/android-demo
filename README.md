@@ -54,5 +54,7 @@ promise.thenOnMainThread(new Task<String>() {
 ---
 
 ### 2020
-
+| 模块 | 时间 | 博客 | 说明 |
+| --- | --- | --- | --- |
+| android_workmanager | 0623 |  | Android WorkManager的使用 |
 
